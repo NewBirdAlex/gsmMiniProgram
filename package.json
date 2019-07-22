@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "md5": "^2.2.1",
+    "mpvue-citypicker": "^1.0.2",
+    "weixin-js-sdk": "^1.4.0-test"
+  }
+}
